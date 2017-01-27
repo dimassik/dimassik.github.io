@@ -45,6 +45,7 @@ footer span { float: right; font-style: italic; }
 .me_photo {overflow: auto;}
 .me_photo img {margin-top: 21px;}
 
+
 /* Smartphones (portrait) */
 @media only screen and (max-width: 480px) {
   body { font-size: 12px;}
